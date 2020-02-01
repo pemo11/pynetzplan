@@ -1,0 +1,11 @@
+1,Online-Umfrage,12,,3
+2,Experteninterview,8,,3
+3,Auswertung,4,1:2,5:6
+4,Kostenplan aufstellen,10,,6:7
+5,Prototyp-Ausschreibung,8,3,8
+6,Konzept erstellen,6,3:4,8
+7,Finanzierungsplan,10,4,10
+8,Prototyp entwickeln,12,5:6,9
+9,Test mit Bürgern,4,8,10:11
+10,Werbematerial erstellen,4,7:9,
+11,Beschlussvorlage erstellen,6,9,

@@ -1,0 +1,10 @@
+A,Wasser kochen,5,,B
+B,Nudeln kochen,9,A,C
+C,Nudeln abgießen,1,B,J
+D,Zwiebeln schneiden,1,,E:F
+E,Zwiebeln anbraten,2,D,G
+F,Tomaten schneiden,4,D,G
+G,Tomaten hinzufügen,1,E:F,H:I
+H,Soße einkochen,15,G,J
+I,Gewürze hinzufügen,1,G,J
+J,Essen anrichten,2,C:H:I,

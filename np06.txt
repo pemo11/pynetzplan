@@ -1,0 +1,8 @@
+1,Nutzerbefragung durchführen,20,,4
+2,Hosting-Angebote einholen,35,,6
+3,Kernfunktionen programmieren,60,,6
+4,Nutzerbefragung auswerten,15,1,5
+5,User Interface entwickeln,20,4,6
+6,Testumgebung einrichten,25,2:3:5,7:8
+7,Marketing vorbereiten,30,6,
+8,Release vorbereiten,25,6,
